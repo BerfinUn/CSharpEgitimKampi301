@@ -10,6 +10,6 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
     {
         public int CategoryId { get; set; }//Set Prime Key olması için sınıf adı ile aynı olmalı
         public string CategoryName { get; set; }
-        public bool CategoryStatus{ get; set; }
+        public bool CategoryStatus { get; set; }
     }
 }
